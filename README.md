@@ -5,8 +5,8 @@ diegoartcode/diegoartcode is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+<h2> Sejam bem vindo ao meu mundo!</h2>
 # 👋  Olá, eu sou o Diego Rodrigues, sou professor e desenvolvedor full stack apaixonado pelo que faz!
-## Sejam bem vindo ao meu mundo!
 
 
-<a href="https://www.linkedin.com/in/diego-rodrigues-14925850/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://api.whatsapp.com/send?phone=5511991457584&text=Ol%C3%A1%2C%20peguei%20seu%20contato%20no%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
